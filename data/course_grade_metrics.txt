@@ -1,0 +1,4640 @@
+Course/Section Grades
+
+Campus
+
+Year &
+Session Course
+
+Course Title
+
+UBCV 2019S ACAM 390 A Asian Migrations i..
+
+Avg. %
+Grade
+86.7
+84.0
+84.9
+84.3
+90.0
+79.0
+72.5
+72.8
+72.9
+76.9
+90.8
+79.1
+70.8
+71.9
+74.9
+78.9
+77.6
+82.5
+90.0
+78.6
+71.6
+70.2
+80.1
+74.7
+64.8
+81.3
+87.7
+88.6
+85.5
+88.3
+87.0
+89.5
+86.0
+84.4
+72.1
+71.0
+89.9
+87.0
+84.8
+91.9
+75.2
+71.0
+
+Std. dev.
+of % Gr..
+3.2
+7.8
+6.2
+6.5
+5.3
+6.4
+12.6
+14.5
+15.2
+10.5
+4.7
+11.2
+27.5
+14.2
+10.1
+13.5
+6.4
+10.6
+4.0
+4.4
+14.8
+13.0
+15.6
+16.4
+13.6
+9.2
+1.6
+3.5
+2.0
+4.2
+3.3
+6.1
+6.2
+7.1
+14.2
+12.8
+12.6
+4.3
+1.6
+3.9
+14.9
+17.3
+
+Min. %
+Grade
+81.0
+67.0
+57.0
+64.0
+75.0
+56.0
+32.0
+0.0
+5.0
+0.0
+79.0
+53.0
+0.0
+23.0
+52.0
+15.0
+65.0
+57.0
+82.0
+70.0
+28.0
+0.0
+0.0
+0.0
+40.0
+55.0
+85.0
+81.0
+82.0
+82.0
+83.0
+76.0
+72.0
+68.0
+15.0
+0.0
+60.0
+80.0
+83.0
+85.0
+28.0
+0.0
+
+Max. %
+Grade
+91.0
+97.0
+93.0
+94.0
+98.0
+91.0
+92.0
+93.0
+92.0
+93.0
+96.0
+90.0
+100.0
+90.0
+88.0
+95.0
+90.0
+97.0
+95.0
+89.0
+96.0
+91.0
+100.0
+95.0
+86.0
+90.0
+90.0
+92.0
+88.0
+95.0
+90.0
+100.0
+98.0
+96.0
+94.0
+90.0
+99.0
+91.0
+87.0
+96.0
+94.0
+96.0
+
+Number
+of Reco..
+18
+57
+66
+62
+62
+63
+26
+46
+35
+90
+13
+8
+29
+31
+10
+40
+31
+16
+9
+87
+89
+68
+68
+68
+19
+18
+10
+13
+22
+9
+8
+24
+46
+36
+66
+64
+8
+7
+5
+7
+57
+43
+
+ADHE 327 Teaching Adults
+ADHE 328 Institutions of Adu..
+ADHE 329 Developing Short C..
+ADHE 330 The Community Pr..
+ADHE 412 An Overview of Ad..
+ANTH 100 Introduction to Cul..
+ANTH 227 Introduction to Me..
+ANTH 308 Ethnography of Su..
+ANTH 378 Anthropology of M..
+ANTH 403 G Ethnography of Sp..
+ANTH 480 B Urban Ethnographi..
+APBI 100 Soil and the Global..
+APBI 200 Introduction to Soi..
+APBI 222 Introduction to Ho..
+APBI 314 Animals and Society
+APBI 428 Integrated Pest M..
+APBI 443 Field Study of Win..
+APBI 490 Advanced Topics in..
+APPP 504 Business Acumen f..
+APSC 160 Introduction to Co..
+APSC 176 Engineering Comm..
+APSC 179 Linear Algebra for ..
+APSC 180 Statics
+APSC 201 Technical Commun..
+APSC 461 Global Engineering..
+ARCH 538 D Study of Architect..
+ARCH 538 E Study of Architect..
+ARCH 544 N Seminar in Archite..
+ARCH 544 Y Seminar in Archite..
+ARCH 545 A Directed Studies in..
+ARCH 551 Communicating Co..
+ARCH 577 B Seminar: Design M..
+ARCH 577 C Seminar: Design M..
+ARCL 140 Bones: The Origins..
+ARCL 228 Forensic Anthropol..
+ARCL 306 Summer Field Trai..
+ARST 556 M Topics in Archival ..
+ARST 587 Preservation
+ARTH 599 Master's Thesis
+ASIA 211 Sex, Sexual Ethics, ..
+ASIA 250 Introduction to Bu..
+ASIA 300 Writing and Cultur..
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+UBCV 2019S
+
+Campus
+
+Year &
+Session Course
+
+Course Title
+Introduction to Bu..
+ASIA 250
+Writing and Cultur..
+ASIA 300
+History of Early Ch..
+ASIA 320
+Korean Popular Mu..
+ASIA 327
+Gender in Southea..
+ASIA 329
+Modern Chinese Fi..
+ASIA 351
+Introduction to Ja..
+ASIA 354
+History of Chinese ..
+ASIA 355
+Contemporary Kor..
+ASIA 367
+The Sanskrit Cosm..
+ASIA 370
+Foundations of Chi..
+ASIA 371
+ASIA 402
+Language, Writing..
+ASTR 311 Exploring the Univ..
+ASTU 160 International Pers..
+ASTU 204 E Topics in Interdisci..
+ASTU 204 F Topics in Interdisci..
+ASTU 260 Knowledge Dissem..
+ASTU 401 C Special Topics in A..
+ATSC 113 Applied Meteorolo..
+AUDI 402 Neuroanatomy for ..
+AUDI 565 C Audiology Practicu..
+AUDI 566 C Audiology Practicu..
+AUDI 590 C Speech-Language ..
+AUDI 591 C Speech-Language ..
+AUDI 594 C Speech-Language ..
+BA 514
+IMBA Residency - P..
+BAAC 551 Foundations in Acc..
+BABS 550 Application of Stat..
+BAHR 505 Leadership
+BAHR 516 Leading Teams
+Project Manageme..
+BAIT 510
+BAIT 513
+Managing e-Busin..
+BAMA 506 Consumer Behavio..
+BAMA 508 Marketing Research
+BAMA 514 Brand Management
+BAPA 550 Managerial Econo..
+BAPA 560 Foundations of Ma..
+BASC 500 Process Fundamen..
+BASC 550 Operations
+BASM 550 Strategic Manage..
+BIOC 202 Introductory Medi..
+BIOC 302 General Biochemis..
+Introduction to Mo..
+BIOL 111
+BIOL 112
+Biology of the Cell
+
+Avg. %
+Grade
+76.8
+73.4
+79.3
+80.9
+77.4
+71.6
+78.0
+84.7
+83.0
+75.5
+81.4
+72.6
+87.3
+93.9
+89.5
+83.4
+86.3
+85.2
+69.9
+87.3
+90.1
+87.0
+87.9
+91.9
+82.2
+84.4
+81.3
+81.2
+81.4
+82.1
+79.4
+82.6
+80.8
+84.3
+80.1
+81.6
+82.7
+82.0
+79.4
+64.7
+72.8
+76.3
+
+Std. dev.
+of % Gr..
+12.9
+7.1
+8.0
+9.4
+11.2
+13.2
+10.1
+8.6
+10.5
+8.8
+16.0
+11.8
+2.9
+1.6
+2.9
+3.7
+3.6
+17.7
+16.1
+3.7
+3.6
+2.8
+4.5
+4.5
+2.4
+7.5
+7.7
+1.5
+2.0
+4.3
+5.2
+3.4
+3.8
+3.8
+7.6
+7.2
+4.7
+7.0
+2.7
+16.7
+17.7
+10.8
+
+Min. %
+Grade
+27.0
+58.0
+55.0
+51.0
+55.0
+16.0
+49.0
+52.0
+51.0
+56.0
+33.0
+38.0
+81.0
+92.0
+86.0
+74.0
+79.0
+0.0
+32.0
+82.0
+85.0
+82.0
+77.0
+82.0
+77.0
+69.0
+60.0
+78.0
+77.0
+69.0
+70.0
+75.0
+69.0
+77.0
+60.0
+63.0
+72.0
+68.0
+73.0
+28.0
+16.0
+39.0
+
+Max. %
+Grade
+95.0
+90.0
+96.0
+97.0
+96.0
+96.0
+97.0
+96.0
+96.0
+93.0
+92.0
+92.0
+91.0
+97.0
+93.0
+90.0
+93.0
+100.0
+97.0
+95.0
+95.0
+92.0
+95.0
+100.0
+88.0
+99.0
+95.0
+85.0
+86.0
+92.0
+90.0
+90.0
+90.0
+94.0
+96.0
+94.0
+95.0
+93.0
+86.0
+100.0
+100.0
+97.0
+
+Number
+of Reco..
+39
+74
+61
+60
+49
+75
+80
+47
+37
+64
+12
+54
+18
+8
+6
+18
+18
+223
+46
+12
+11
+36
+37
+35
+44
+74
+75
+75
+74
+75
+39
+44
+74
+26
+75
+47
+64
+47
+74
+74
+132
+65
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+UBCV 2019S
+
+Campus
+
+Year &
+Session Course
+
+Course Title
+Introduction to Mo..
+Biology of the Cell
+Genetics, Evolutio..
+Fundamentals of C..
+Fundamentals of E..
+Fundamentals of G..
+Fundamentals of P..
+Fundamentals of B..
+Introduction to Se..
+Molecular Genetics
+Fundamentals of E..
+Introductory Mole..
+Neural and Muscul..
+Field Course in Eco..
+Comparative and ..
+
+BIOL 111
+BIOL 112
+BIOL 121
+BIOL 200
+BIOL 230
+BIOL 234
+BIOL 260
+BIOL 300
+BIOL 324
+BIOL 335
+BIOL 336
+BIOL 341
+BIOL 361
+BIOL 409
+BIOL 456
+BIOL 525 D Topics in Systemat..
+BMEG 591 M Topics in Biomedic..
+BUSI 291 Application of Stat..
+BUSI 293 Introductory Finan..
+BUSI 294 Introductory Mana..
+BUSI 335 Information Syste..
+BUSI 353 Intermediate Fina..
+BUSI 354 Cost Accounting
+BUSI 355 Introduction to Inc..
+BUSI 370 Business Finance
+BUSI 393 Introduction to Bu..
+BUSI 450 Intermediate Fina..
+BUSI 453 Advanced Financia..
+BUSI 455 Principles of Auditi..
+BUSI 493 Strategic Manage..
+CAPS 391 Introduction to Gr..
+CCFI 501
+Living Inquiry in Le..
+CEEN 503 Sustainable Energ..
+CEEN 504 Energy Storage an..
+CENS 303 B Representations o..
+CENS 303 D Representations o..
+CHBE 241 Material and Ener..
+CHEM 121 Structure and Bon..
+CHEM 123 Thermodynamics, ..
+CHEM 233 Organic Chemistry ..
+CHIN 131 Basic Chinese I: Pa..
+CHIN 133 Basic Chinese I: Pa..
+CHIN 134 Intensive Basic Chi..
+CHIN 233 Basic Chinese II: P..
+
+Avg. %
+Grade
+80.8
+76.4
+73.1
+83.5
+72.6
+74.1
+81.3
+84.2
+73.0
+77.4
+66.7
+72.2
+91.4
+83.1
+87.1
+91.7
+69.4
+68.0
+73.5
+72.0
+73.4
+74.2
+72.5
+73.3
+62.9
+71.4
+74.5
+74.2
+81.0
+70.2
+89.6
+85.7
+88.8
+78.9
+89.0
+79.4
+68.9
+71.0
+68.6
+79.3
+90.3
+87.8
+
+Std. dev.
+of % Gr..
+13.2
+9.9
+14.3
+10.5
+17.4
+12.3
+9.9
+7.5
+10.9
+10.1
+18.0
+14.7
+4.3
+14.1
+6.7
+6.6
+21.1
+22.0
+14.2
+17.4
+14.6
+12.3
+13.5
+12.8
+14.8
+16.5
+13.0
+8.5
+6.1
+16.4
+2.9
+8.5
+7.2
+8.7
+5.0
+8.1
+12.5
+13.9
+17.0
+14.8
+2.4
+7.2
+
+Min. %
+Grade
+25.0
+43.0
+0.0
+42.0
+0.0
+10.0
+54.0
+72.0
+35.0
+47.0
+0.0
+37.0
+83.0
+35.0
+76.0
+84.0
+0.0
+0.0
+36.0
+32.0
+37.0
+41.0
+30.0
+43.0
+21.0
+0.0
+33.0
+50.0
+66.0
+20.0
+84.0
+65.0
+73.0
+54.0
+83.0
+65.0
+40.0
+22.0
+1.0
+50.0
+87.0
+71.0
+
+Max. %
+Grade
+99.0
+93.0
+94.0
+94.0
+97.0
+88.0
+97.0
+98.0
+93.0
+95.0
+81.0
+97.0
+97.0
+94.0
+99.0
+99.0
+94.0
+97.0
+98.0
+93.0
+99.0
+99.0
+97.0
+99.0
+90.0
+99.0
+99.0
+91.0
+95.0
+99.0
+93.0
+97.0
+98.0
+93.0
+96.0
+92.0
+100.0
+99.0
+98.0
+91.0
+93.0
+96.0
+
+Number
+of Reco..
+143
+133
+115
+33
+72
+60
+89
+20
+51
+81
+18
+45
+10
+15
+9
+7
+20
+68
+89
+54
+120
+72
+53
+63
+35
+93
+102
+59
+37
+105
+22
+21
+21
+39
+8
+8
+115
+194
+297
+9
+7
+15
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+Campus
+
+Year &
+Session Course
+
+UBCV 2019S
+
+Course Title
+
+Plane Surveying
+Engineering and S..
+
+CHIN 134 Intensive Basic Chi..
+CHIN 233 Basic Chinese II: P..
+CHIN 234 Intensive Basic Chi..
+CHIN 334 Intensive Interme..
+CHIN 338 Intensive Interme..
+CHIN 465 Fantasy in Chinese..
+CHIN 474 Later Classical Chi..
+CHIN 482 A Supervised Study i..
+CHIN 484 Intensive Modern ..
+CHIN 485 Contemporary Chi..
+CHIN 494 Intensive Classical ..
+CIVL 235
+CIVL 250
+CLST 313 Greek Epic
+CNPS 362 Basic Interviewing..
+CNPS 363 Career Counselling
+CNPS 364 Family Education a..
+CNPS 365 Introduction to Th..
+CNPS 427 Guidance: Plannin..
+CNPS 433 The Personal and S..
+CNPS 532 C Psychological Asse..
+CNPS 545 Family Counselling..
+CNPS 564 Group Counselling
+CNPS 574 Career Planning an..
+CNPS 584 Program Develop..
+CNPS 594 Cross-Cultural Cou..
+CNRS 335 A Practicum in Classi..
+CNRS 335 C Practicum in Classi..
+CNTO 311 Basic Cantonese fo..
+CNTO 451 Advanced Cantone..
+COGS 402 Research in Cognit..
+COMM 203 Managing the Emp..
+COMM 204 Logistics and Oper..
+COMM 205 Introduction to Ma..
+COMM 280 Entrepreneurship
+COMM 290 Introduction to Qu..
+COMM 293 Financial Accounti..
+COMM 294 Managerial Accoun..
+COMM 295 Managerial Econo..
+COMM 329 Principles of Organ..
+COMM 335 Information Syste..
+COMM 382 Economics of Entr..
+COMM 390 Business Writing
+COMM 393 Commercial Law
+
+Avg. %
+Grade
+81.6
+80.9
+80.4
+77.8
+77.4
+76.4
+73.9
+78.5
+80.1
+76.8
+80.9
+75.7
+75.5
+90.3
+86.1
+87.1
+80.4
+82.5
+86.5
+95.4
+91.1
+95.6
+95.4
+90.8
+92.2
+87.8
+82.6
+78.6
+88.4
+84.9
+70.3
+78.3
+76.4
+77.4
+68.4
+76.1
+74.5
+76.7
+77.3
+81.8
+77.5
+78.3
+
+Std. dev.
+of % Gr..
+6.5
+10.0
+8.3
+8.3
+9.0
+9.4
+9.1
+4.5
+10.7
+11.8
+6.0
+10.7
+14.1
+4.9
+6.7
+9.0
+14.0
+9.1
+10.0
+3.9
+2.9
+2.1
+2.1
+1.2
+1.9
+3.6
+3.7
+8.9
+4.5
+4.2
+8.6
+10.9
+10.1
+9.0
+27.0
+11.5
+16.5
+10.0
+7.6
+5.9
+8.4
+7.5
+
+Min. %
+Grade
+68.0
+61.0
+66.0
+68.0
+60.0
+0.0
+45.0
+60.0
+19.0
+57.0
+64.0
+7.0
+26.0
+78.0
+63.0
+58.0
+5.0
+50.0
+5.0
+84.0
+85.0
+90.0
+89.0
+88.0
+88.0
+83.0
+76.0
+57.0
+83.0
+69.0
+48.0
+30.0
+50.0
+56.0
+0.0
+36.0
+23.0
+50.0
+58.0
+50.0
+47.0
+57.0
+
+Max. %
+Grade
+90.0
+92.0
+90.0
+87.0
+96.0
+91.0
+89.0
+88.0
+93.0
+100.0
+93.0
+97.0
+91.0
+97.0
+99.0
+100.0
+95.0
+93.0
+97.0
+100.0
+94.0
+98.0
+99.0
+93.0
+94.0
+93.0
+87.0
+93.0
+95.0
+91.0
+86.0
+98.0
+96.0
+86.0
+100.0
+94.0
+97.0
+94.0
+88.0
+95.0
+86.0
+94.0
+
+Number
+of Reco..
+20
+14
+8
+6
+57
+124
+40
+121
+56
+55
+109
+223
+26
+43
+94
+58
+64
+21
+106
+43
+20
+38
+19
+20
+13
+10
+8
+86
+9
+39
+121
+201
+81
+11
+40
+229
+46
+123
+42
+101
+23
+64
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+Campus
+
+Year &
+Session Course
+
+UBCV 2019S
+
+Course Title
+
+COMM 390 Business Writing
+COMM 393 Commercial Law
+COMM 394 Government and B..
+COMM 395 Business Communi..
+COMM 398 Introduction to Bu..
+COMM 450 Financial Accounti..
+COMM 455 Principles of Auditi..
+COMM 457 Fundamentals of F..
+COMM 465 Marketing Manage..
+COMM 473 Business Finance
+COMM 486 X Special Topics in B..
+COMM 491 Strategic Manage..
+COMM 493 Strategic Manage..
+COMM 498 International Busi..
+CONS 340 Introduction to Ge..
+CONS 449 C Directed Studies in..
+CPEN 311 Digital Systems De..
+CPEN 481 Economic Analysis ..
+CPEN 533 Error Resilient Co..
+CPSC 103 Introduction to Sy..
+CPSC 110 Computation, Prog..
+CPSC 121 Models of Comput..
+CPSC 210 Software Construc..
+CPSC 213 Introduction to Co..
+CPSC 221 Basic Algorithms a..
+CPSC 304 Introduction to Rel..
+CPSC 320 Intermediate Algo..
+CPSC 322 Introduction to Art..
+CPSC 436 I Topics in Compute..
+CPSC 448 B Directed Studies in..
+CPSC 491 Interactive Digital ..
+CRWR 200 Introduction to Cre..
+CRWR 213 Introduction to Wr..
+CRWR 409 T Writing Fiction I
+CRWR 501 T Advanced Writing ..
+CRWR 501 U Advanced Writing ..
+CRWR 508 T Advanced Writing ..
+CRWR 509 T Advanced Writing ..
+CRWR 599 Thesis
+DENT 599 M.Sc. Thesis
+ECED 400 Introduction to Ea..
+ECED 407 Supporting Early L..
+ECED 417 Supporting Learni..
+ECED 420 History of Early Ch..
+
+Avg. %
+Grade
+76.3
+77.5
+78.4
+79.9
+57.0
+78.0
+67.4
+77.3
+75.0
+87.8
+78.3
+74.3
+78.7
+81.9
+88.1
+74.3
+88.8
+84.6
+74.9
+77.3
+75.9
+70.9
+70.1
+76.9
+80.2
+79.3
+80.7
+86.9
+89.6
+89.9
+74.9
+73.7
+88.5
+90.0
+90.2
+90.3
+90.0
+91.4
+82.3
+89.4
+81.8
+96.3
+
+Std. dev.
+of % Gr..
+7.7
+7.4
+3.8
+6.3
+31.6
+6.3
+17.3
+8.4
+13.6
+2.6
+4.0
+4.1
+7.7
+9.4
+4.6
+16.6
+11.3
+6.3
+18.4
+19.5
+12.0
+17.7
+14.9
+11.4
+9.6
+12.6
+12.5
+6.9
+3.0
+3.0
+15.3
+17.5
+2.5
+2.4
+1.1
+0.7
+1.4
+1.7
+7.3
+4.6
+11.5
+2.8
+
+Min. %
+Grade
+52.0
+29.0
+64.0
+60.0
+7.0
+68.0
+5.0
+58.0
+43.0
+85.0
+62.0
+63.0
+50.0
+58.0
+80.0
+14.0
+50.0
+71.0
+0.0
+0.0
+17.0
+0.0
+18.0
+24.0
+41.0
+27.0
+1.0
+67.0
+86.0
+85.0
+0.0
+0.0
+86.0
+88.0
+89.0
+90.0
+88.0
+87.0
+70.0
+80.0
+31.0
+87.0
+
+Max. %
+Grade
+91.0
+90.0
+87.0
+91.0
+90.0
+85.0
+97.0
+95.0
+91.0
+90.0
+90.0
+85.0
+85.0
+95.0
+95.0
+100.0
+100.0
+91.0
+96.0
+100.0
+96.0
+98.0
+100.0
+97.0
+97.0
+100.0
+100.0
+98.0
+95.0
+94.0
+92.0
+91.0
+94.0
+95.0
+92.0
+92.0
+91.0
+94.0
+91.0
+97.0
+91.0
+100.0
+
+Number
+of Reco..
+224
+130
+70
+48
+5
+5
+45
+50
+37
+9
+119
+38
+23
+50
+17
+53
+25
+13
+72
+140
+180
+173
+119
+148
+175
+143
+151
+70
+7
+11
+115
+135
+10
+10
+9
+8
+13
+14
+15
+26
+26
+17
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+Campus
+
+Year &
+Session Course
+
+UBCV 2019S
+
+Course Title
+
+ECED 417 Supporting Learni..
+ECED 420 History of Early Ch..
+ECED 421 Supporting Young ..
+ECED 438 Observation and D..
+ECED 480 A Selected Topics in ..
+ECED 530 B Early Childhood De..
+ECED 531 B Supporting Young ..
+ECED 565 A Special Course in E..
+ECON 101 Principles of Micro..
+ECON 102 Principles of Macr..
+ECON 226 Making Sense of E..
+ECON 301 Intermediate Micr..
+ECON 302 Intermediate Macr..
+ECON 325 Introduction to Em..
+ECON 326 Methods of Empiri..
+ECON 345 Money and Banking
+ECON 355 Introduction to Int..
+ECON 356 Introduction to Int..
+ECON 456 International Macr..
+ECON 471 Economics of Nonr..
+ECON 594 Applied Economics
+EDCP 325 Approaches to Hea..
+EDCP 328 Environmental Edu..
+EDCP 329 Agriculture in the ..
+EDCP 413 Digital Media for ..
+EDCP 441 B Assessment in Mat..
+EDCP 448 Conceptions of the..
+EDCP 481 Media Studies Acr..
+EDCP 493 Special Study in Ho..
+EDCP 494 Special Study in Ho..
+EDCP 496 Global Education a..
+EDCP 508 A Review of Researc..
+EDCP 514 Arts-Based Educat..
+EDCP 523 A Seminar in Art Edu..
+EDCP 530 Curriculum Innova..
+EDCP 532 Theories and Dime..
+EDCP 538 Theory and Resear..
+EDCP 542 Theorizing Pedago..
+EDCP 559 Research in the Te..
+EDCP 562 Curriculum Issues ..
+EDCP 567 Curriculum Issues ..
+EDCP 585 A Special Course in C..
+EDCP 585 B Special Course in C..
+EDCP 585 C Special Course in C..
+
+Avg. %
+Grade
+84.5
+86.7
+81.5
+86.3
+93.9
+87.4
+88.8
+71.7
+70.1
+69.0
+71.5
+74.0
+80.2
+70.4
+67.9
+70.9
+65.1
+76.4
+77.9
+86.8
+96.4
+96.5
+92.9
+89.6
+97.4
+96.0
+92.6
+91.0
+86.8
+85.6
+88.3
+91.1
+94.7
+93.8
+88.7
+99.3
+90.1
+93.2
+89.5
+90.9
+85.1
+88.2
+
+Std. dev.
+of % Gr..
+22.4
+7.6
+9.2
+3.5
+2.4
+6.1
+5.2
+14.8
+16.6
+15.0
+11.6
+13.6
+11.2
+14.7
+16.9
+12.7
+20.9
+11.0
+8.0
+8.9
+4.7
+0.9
+4.1
+2.5
+2.0
+3.9
+0.8
+11.1
+7.3
+4.0
+4.3
+3.7
+1.9
+1.6
+2.7
+0.5
+1.0
+4.4
+2.4
+3.2
+4.1
+2.2
+
+Min. %
+Grade
+0.0
+70.0
+65.0
+80.0
+89.0
+69.0
+80.0
+0.0
+0.0
+37.0
+44.0
+0.0
+50.0
+17.0
+0.0
+36.0
+0.0
+55.0
+62.0
+40.0
+81.0
+95.0
+79.0
+82.0
+94.0
+89.0
+92.0
+44.0
+72.0
+78.0
+79.0
+85.0
+91.0
+91.0
+85.0
+99.0
+88.0
+82.0
+86.0
+82.0
+80.0
+84.0
+
+Max. %
+Grade
+97.0
+98.0
+96.0
+92.0
+98.0
+93.0
+95.0
+99.0
+100.0
+91.0
+94.0
+100.0
+100.0
+97.0
+97.0
+93.0
+98.0
+96.0
+96.0
+100.0
+100.0
+98.0
+97.0
+94.0
+100.0
+100.0
+94.0
+98.0
+97.0
+95.0
+96.0
+98.0
+98.0
+98.0
+92.0
+100.0
+92.0
+98.0
+94.0
+95.0
+93.0
+92.0
+
+Number
+of Reco..
+21
+28
+21
+8
+17
+20
+9
+259
+300
+23
+62
+71
+94
+111
+87
+76
+85
+72
+74
+53
+30
+25
+31
+26
+16
+14
+16
+23
+18
+34
+13
+18
+10
+14
+15
+13
+21
+19
+11
+18
+10
+18
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+Campus
+
+Year &
+Session Course
+
+UBCV 2019S
+
+Course Title
+
+EDCP 585 B Special Course in C..
+EDCP 585 C Special Course in C..
+EDCP 585 D Special Course in C..
+EDCP 585 E Special Course in C..
+EDCP 585 F Special Course in C..
+EDCP 585 G Special Course in C..
+EDST 427 Philosophy of Educ..
+EDST 451 Issues and Frame..
+EDST 493 Introduction to the..
+EDST 504 A History of Educati..
+EDST 508 A Review of Researc..
+EDST 508 B Review of Researc..
+EDST 514 Adult Education Pr..
+EDST 536 Higher Education S..
+EDST 542 Fostering Learning..
+EDST 555 Educational Finance
+EDST 557 Professional Ethic..
+EDST 565 A Special Course in S..
+EDST 565 E Special Course in S..
+EDST 572 Research, Writing,..
+EDST 580 A Directed Study
+EDST 582 The Study of Educa..
+EDST 591 Indigenous Episte..
+EDST 595 Philosophical Rese..
+EDST 598 A Field Experiences
+EDUC 140 Introduction to Ind..
+EDUC 490 Y Special Studies in ..
+EDUC 500 Research Methodo..
+EECE 599 Thesis
+ELEC 291 Electrical Engineer..
+ELEC 292 Biomedical Engine..
+ELEC 341 Systems and Contr..
+ELEC 391 Electrical Engineer..
+ELEC 400 S Topics in Electrical..
+ELEC 481 Economic Analysis ..
+ENDS 482 D Special Topics
+ENDS 482 E Special Topics
+ENDS 482 G Special Topics
+ENDS 482 H Special Topics
+ENGL 110 Approaches to Lite..
+ENGL 112 Strategies for Univ..
+ENGL 220 Literature in Engli..
+ENGL 222 Literature in Cana..
+ENGL 223 Literature in the U..
+
+Avg. %
+Grade
+90.3
+95.3
+94.6
+91.9
+97.3
+92.1
+91.4
+89.1
+87.3
+94.1
+89.3
+86.7
+90.8
+84.6
+92.5
+94.4
+95.0
+92.0
+90.4
+90.0
+93.0
+92.8
+91.5
+89.5
+86.9
+100.0
+90.9
+84.0
+83.5
+80.8
+79.1
+92.9
+92.5
+83.1
+87.0
+89.3
+83.4
+83.0
+74.7
+76.1
+73.4
+75.2
+
+Std. dev.
+of % Gr..
+2.7
+2.5
+1.1
+7.3
+1.6
+3.2
+5.2
+2.4
+6.3
+5.6
+4.0
+4.4
+2.5
+7.3
+3.6
+1.3
+0.0
+1.7
+1.7
+2.7
+2.3
+1.3
+1.2
+2.7
+15.1
+0.0
+4.4
+4.0
+3.8
+1.3
+12.6
+3.5
+2.2
+15.6
+2.0
+5.2
+7.0
+7.5
+7.7
+9.9
+15.9
+6.2
+
+Min. %
+Grade
+85.0
+90.0
+93.0
+74.0
+93.0
+85.0
+82.0
+84.0
+67.0
+84.0
+83.0
+78.0
+86.0
+70.0
+84.0
+92.0
+95.0
+89.0
+88.0
+85.0
+88.0
+90.0
+90.0
+85.0
+50.0
+100.0
+80.0
+75.0
+77.0
+80.0
+0.0
+83.0
+90.0
+0.0
+85.0
+79.0
+70.0
+60.0
+42.0
+0.0
+5.0
+52.0
+
+Max. %
+Grade
+96.0
+98.0
+96.0
+96.0
+98.0
+96.0
+95.0
+94.0
+92.0
+100.0
+95.0
+93.0
+94.0
+91.0
+97.0
+97.0
+95.0
+95.0
+92.0
+95.0
+97.0
+95.0
+94.0
+95.0
+96.0
+100.0
+99.0
+90.0
+90.0
+83.0
+98.0
+98.0
+96.0
+100.0
+90.0
+94.0
+92.0
+93.0
+92.0
+91.0
+87.0
+85.0
+
+Number
+of Reco..
+21
+9
+12
+8
+11
+10
+7
+20
+15
+14
+13
+16
+9
+16
+15
+24
+5
+21
+7
+13
+38
+13
+14
+11
+13
+6
+45
+11
+13
+5
+86
+28
+10
+64
+5
+7
+12
+15
+307
+132
+30
+32
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+Campus
+
+Year &
+Session Course
+
+UBCV 2019S
+
+Course Title
+
+ENGL 222 Literature in Cana..
+ENGL 223 Literature in the U..
+ENGL 229 A Topics in the Study..
+ENGL 243 Speculative Fiction
+ENGL 301 Technical Writing
+ENGL 321 English Grammar a..
+ENGL 348 A Shakespeare and t..
+ENGL 364 A Nineteenth-Centur..
+ENGL 406 A Studies in Prose Fi..
+ENGL 468 A Children's Literatu..
+ENGL 470 A Canadian Studies
+ENGL 508 A Linguistic Studies ..
+ENGL 539 D Studies in the Twe..
+ENPH 253 Introduction to Ins..
+ENPH 257 Heat and Thermod..
+ENPH 270 Mechanics II
+EOSC 114 The Catastrophic E..
+EOSC 116 Mesozoic Earth: Ti..
+EOSC 118 Earth's Treasures: ..
+EOSC 310 The Earth and the ..
+EOSC 315 The Ocean Ecosyst..
+EOSC 326 Earth and Life Thro..
+EPSE 303 Teaching Highly Ab..
+EPSE 312 Introduction to the..
+EPSE 320 Classroom Inclusio..
+EPSE 348 Family-Centred Pr..
+EPSE 390 K Special Topics
+EPSE 401 Instructional Design
+EPSE 403 Education of Stude..
+EPSE 406 Typical and Atypic..
+EPSE 426 Classroom Inclusio..
+EPSE 432 Classroom Manage..
+EPSE 433 Assessment and P..
+EPSE 436 Survey of Behavio..
+EPSE 449 Education of Stude..
+EPSE 482 Introduction to Sta..
+EPSE 483 Reading and Inter..
+EPSE 502 Cognition, Langua..
+EPSE 509 Organization of Sp..
+EPSE 512 Critical Issues in S..
+EPSE 516 Seminar in the Dev..
+EPSE 528 Basic Principles of ..
+EPSE 538 Seminar in Orienta..
+EPSE 539 Research Issues an..
+
+Avg. %
+Grade
+73.5
+83.6
+75.4
+74.5
+82.6
+71.4
+72.7
+74.3
+73.7
+78.6
+87.3
+87.3
+87.0
+78.8
+78.0
+74.4
+77.1
+74.3
+76.9
+66.8
+74.6
+93.8
+93.4
+95.5
+88.7
+94.3
+85.8
+89.1
+88.1
+92.5
+86.4
+90.3
+95.6
+92.0
+90.2
+91.2
+92.3
+97.3
+96.9
+91.0
+88.0
+92.8
+
+Std. dev.
+of % Gr..
+7.0
+8.9
+15.0
+16.4
+10.9
+8.6
+13.0
+23.5
+12.4
+15.4
+4.1
+3.7
+8.8
+10.3
+12.0
+18.2
+15.7
+22.0
+10.0
+19.6
+15.1
+3.0
+1.9
+4.7
+6.5
+1.8
+4.1
+10.9
+7.1
+6.1
+7.8
+5.0
+3.1
+4.9
+5.9
+5.4
+3.0
+1.6
+1.1
+2.1
+5.1
+1.7
+
+Min. %
+Grade
+51.0
+62.0
+0.0
+22.0
+55.0
+47.0
+41.0
+0.0
+18.0
+0.0
+80.0
+80.0
+56.0
+57.0
+50.0
+0.0
+0.0
+0.0
+45.0
+0.0
+0.0
+87.0
+90.0
+78.0
+67.0
+90.0
+80.0
+26.0
+60.0
+70.0
+68.0
+79.0
+89.0
+80.0
+78.0
+73.0
+88.0
+95.0
+95.0
+89.0
+83.0
+90.0
+
+Max. %
+Grade
+86.0
+96.0
+91.0
+94.0
+96.0
+86.0
+93.0
+87.0
+95.0
+95.0
+92.0
+94.0
+100.0
+99.0
+100.0
+94.0
+96.0
+97.0
+95.0
+93.0
+96.0
+99.0
+98.0
+100.0
+99.0
+95.0
+92.0
+100.0
+95.0
+100.0
+98.0
+99.0
+100.0
+100.0
+98.0
+97.0
+98.0
+99.0
+98.0
+94.0
+97.0
+95.0
+
+Number
+of Reco..
+22
+25
+32
+29
+37
+31
+29
+38
+40
+39
+6
+13
+60
+59
+59
+209
+109
+107
+88
+110
+74
+31
+35
+101
+29
+21
+8
+60
+32
+70
+27
+23
+28
+35
+13
+17
+11
+10
+12
+5
+7
+6
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+Campus
+
+Year &
+Session Course
+
+UBCV 2019S
+
+Course Title
+
+EPSE 538 Seminar in Orienta..
+EPSE 539 Research Issues an..
+EPSE 540 Seminar in Low Vis..
+EPSE 541 Braille Reading an..
+EPSE 565 R Special Course in S..
+EPSE 578 Ethics for Behavio..
+EPSE 581 C Special Topics in M..
+ETEC 500 Research Methodo..
+ETEC 510 Design of Technolo..
+ETEC 520 Planning and Mana..
+ETEC 521 Indigeneity, Techn..
+ETEC 522 Ventures in Learni..
+ETEC 524 Learning Technolo..
+ETEC 533 Technology in the ..
+ETEC 565 G Special Course in S..
+ETEC 565 S Special Course in S..
+FIST 100
+Introduction to Fil..
+FMST 210 Family Context of ..
+FMST 312 Parent-child Relati..
+FMST 314 Relationship Devel..
+FMST 316 Human Sexuality
+FNEL 480 A Endangered Langu..
+Exploring Our Food
+FNH 200
+Nutrition Concepts..
+FNH 250
+Introduction to Wi..
+FNH 330
+FNH 355
+International Nutri..
+FNH 497 E Directed Studies in..
+FNIS 360 L Applied Learning: ..
+FNIS 455
+Indigenous Geogra..
+FNIS 533 S Directed Study
+FRE 547
+Graduating Project
+FREN 101 Beginners' French I
+FREN 102 Beginners' French II
+FREN 111 Elementary French I
+FREN 112 Elementary French..
+FREN 122 Intermediate Fren..
+FREN 123 Intermediate Fren..
+FRST 231 Introduction to Bio..
+FRST 232 Computer Applicat..
+FRST 307 Biotic Disturbances
+FRST 308 Forest Entomology
+FRST 309 Forest Pathology
+FRST 319 Principles of Fores..
+FRST 320 Abiotic Disturbanc..
+
+Avg. %
+Grade
+96.7
+92.5
+87.5
+95.2
+90.3
+93.4
+86.5
+88.1
+85.1
+87.9
+81.9
+88.1
+91.0
+87.3
+85.5
+72.4
+75.4
+73.2
+85.1
+71.3
+87.5
+79.4
+76.3
+72.4
+79.9
+89.7
+89.0
+82.5
+87.2
+85.6
+79.1
+75.1
+79.4
+70.8
+83.1
+86.3
+76.9
+75.4
+73.1
+66.6
+81.1
+83.7
+
+Std. dev.
+of % Gr..
+0.9
+3.4
+7.8
+0.9
+3.5
+4.2
+8.0
+2.9
+8.4
+6.9
+13.0
+7.7
+4.1
+2.7
+3.6
+16.2
+12.3
+16.9
+5.1
+9.9
+15.1
+14.0
+16.6
+11.7
+9.2
+3.1
+4.2
+7.6
+4.5
+12.9
+13.2
+14.9
+10.8
+11.7
+6.6
+4.6
+16.4
+14.8
+7.5
+33.1
+12.3
+8.4
+
+Min. %
+Grade
+95.0
+87.0
+68.0
+93.0
+83.0
+88.0
+56.0
+84.0
+63.0
+75.0
+21.0
+60.0
+79.0
+82.0
+76.0
+3.0
+28.0
+27.0
+70.0
+29.0
+0.0
+0.0
+0.0
+33.0
+42.0
+85.0
+80.0
+70.0
+82.0
+15.0
+13.0
+21.0
+57.0
+44.0
+67.0
+80.0
+38.0
+31.0
+56.0
+0.0
+58.0
+69.0
+
+Max. %
+Grade
+98.0
+98.0
+95.0
+96.0
+96.0
+99.0
+93.0
+94.0
+93.0
+100.0
+97.0
+98.0
+97.0
+91.0
+90.0
+96.0
+99.0
+98.0
+94.0
+86.0
+96.0
+99.0
+97.0
+93.0
+95.0
+93.0
+94.0
+92.0
+92.0
+95.0
+98.0
+92.0
+99.0
+94.0
+94.0
+92.0
+100.0
+93.0
+89.0
+96.0
+95.0
+92.0
+
+Number
+of Reco..
+9
+14
+13
+11
+12
+8
+23
+43
+18
+21
+34
+43
+22
+15
+50
+64
+237
+62
+78
+72
+37
+203
+71
+81
+172
+6
+16
+8
+6
+36
+85
+42
+54
+61
+14
+10
+30
+18
+34
+14
+8
+6
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+Campus
+
+Year &
+Session Course
+
+UBCV 2019S
+
+Course Title
+
+FRST 319 Principles of Fores..
+FRST 320 Abiotic Disturbanc..
+FRST 449 C Directed Studies in..
+FRST 526 C Directed Studies in..
+FRST 555 Fundamentals of S..
+GEOB 103 Our Changing Envi..
+GEOG 122 Geography, Moder..
+GEOG 310 Environment and S..
+GEOG 350 Urban Worlds
+GEOG 352 Urbanization in th..
+GEOG 599 Master's Thesis
+GERM 100 Beginners' German I
+GERM 110 Beginners' Germa..
+GERM 112 German for Singers
+GERM 200 Intermediate Ger..
+GERM 210 Intermediate Ger..
+GERM 433 German for Readin..
+GRSJ 101 Introduction to So..
+GRSJ 224 E Gender, Race, Sex..
+GRSJ 224 F Gender, Race, Sex..
+GRSJ 300 Intersectional App..
+GRSJ 515 A Critical and Creati..
+HGSE 320 A Special Topics on E..
+HGSE 320 B Special Topics on E..
+HGSE 320 C Special Topics on E..
+HGSE 320 D Special Topics on E..
+HIST 103
+World History Sinc..
+Global Environmen..
+HIST 106
+Cultural Histories ..
+HIST 109
+HIST 235
+History of Canada: ..
+Britain, 1945 to th..
+HIST 319
+Canada 1896-1945..
+HIST 325
+American Moderni..
+HIST 338
+HIST 369
+Europe, 1900-1950
+HIST 390 A Topics in History
+Darwin, Evolution, ..
+HIST 394
+War and Society
+HIST 425
+History of the Holo..
+HIST 441
+Revolution and Re..
+HIST 460
+Master's Thesis
+HIST 549
+Whole Building En..
+HPB 503
+HPB 505
+Capstone: Greenin..
+ISCI 330 B Topics in Integrate..
+ISCI 361
+Field Course: Syste..
+
+Avg. %
+Grade
+73.3
+87.3
+78.9
+87.8
+69.6
+68.7
+76.1
+75.6
+70.9
+87.8
+81.6
+78.8
+80.8
+76.1
+69.7
+75.5
+82.0
+80.7
+80.3
+73.6
+90.4
+87.3
+86.6
+87.8
+87.5
+73.1
+79.2
+73.6
+67.7
+73.2
+77.1
+75.0
+70.1
+78.9
+75.6
+76.1
+79.9
+79.3
+86.0
+81.8
+95.0
+86.8
+
+Std. dev.
+of % Gr..
+15.4
+4.3
+4.3
+2.9
+14.1
+16.1
+10.4
+6.1
+13.3
+4.0
+11.3
+12.4
+13.0
+13.0
+13.7
+11.7
+15.6
+13.3
+14.2
+17.3
+1.9
+1.3
+1.3
+4.7
+6.1
+11.0
+9.6
+15.7
+18.6
+13.8
+9.2
+18.5
+19.5
+8.0
+9.9
+13.3
+3.4
+5.7
+5.5
+12.4
+6.2
+2.7
+
+Min. %
+Grade
+0.0
+80.0
+73.0
+81.0
+25.0
+20.0
+40.0
+58.0
+0.0
+80.0
+50.0
+47.0
+53.0
+52.0
+42.0
+47.0
+50.0
+50.0
+15.0
+0.0
+87.0
+86.0
+85.0
+80.0
+71.0
+50.0
+46.0
+12.0
+5.0
+11.0
+58.0
+0.0
+0.0
+60.0
+55.0
+32.0
+74.0
+67.0
+81.0
+60.0
+85.0
+83.0
+
+Max. %
+Grade
+91.0
+94.0
+87.0
+93.0
+95.0
+94.0
+94.0
+88.0
+90.0
+93.0
+97.0
+96.0
+93.0
+98.0
+98.0
+98.0
+98.0
+99.0
+96.0
+93.0
+93.0
+90.0
+89.0
+96.0
+93.0
+88.0
+92.0
+90.0
+93.0
+87.0
+94.0
+94.0
+88.0
+90.0
+90.0
+96.0
+86.0
+90.0
+96.0
+96.0
+100.0
+90.0
+
+Number
+of Reco..
+37
+15
+14
+23
+120
+28
+50
+61
+55
+8
+34
+22
+10
+25
+17
+92
+27
+49
+62
+98
+10
+20
+20
+16
+16
+16
+34
+23
+36
+37
+35
+44
+38
+15
+20
+43
+33
+37
+6
+15
+14
+6
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+Campus
+
+UBCV 2019S
+
+Course Title
+
+Biomechanics I
+Leisure and Sport i..
+Anatomy & Physiol..
+Anatomy & Physiol..
+Exercise Physiolog..
+Exercise Physiolog..
+Business of High P..
+Directed Field Stu..
+
+Year &
+Session Course
+ISCI 330 B Topics in Integrate..
+Field Course: Syste..
+ISCI 361
+ITAL 101
+First-Year Italian I
+ITAL 102
+First-Year Italian II
+IWME 502 Engineering Hydro..
+JAPN 100 Beginning Japanes..
+JAPN 101 Beginning Japanes..
+JAPN 200 Beginning Japanes..
+JAPN 201 Beginning Japanes..
+JAPN 360 Intensive Interme..
+KIN 151
+KIN 161
+KIN 190
+KIN 191
+KIN 275
+KIN 375
+KIN 517
+KIN 598
+KORN 102 Basic Korean
+LARC 510 A Advanced Field Stu..
+LARC 582 G Seminar: Special T..
+LARC 582 N Seminar: Special T..
+LATN 101 First-Year Latin I
+LAW 372
+LAW 380 C Externship Reﬂect..
+Business Organiza..
+LAW 459
+LAW 476
+Evidence
+Clinical Term: Paper
+LAW 489
+LAW 505
+Canadian Public Law
+LAW 508 D Business Organiza..
+Canadian Private L..
+LAW 515
+LAW 525
+Canadian Criminal ..
+LFS 302 B International Field..
+LFS 490 A Topics in Land and ..
+LFS 496 A Career Developme..
+Organization of Le..
+LIBE 465
+LIBE 467
+Information Servic..
+Writing, Publishin..
+LIBR 524
+Illustrated Literat..
+LIBR 525
+LIBR 530
+Subject-Based Info..
+Adult Popular Rea..
+LIBR 545
+Database Design
+LIBR 554
+LIBR 575
+Academic Libraries
+LIBR 579 G Topics in the Mana..
+
+Administrative Law
+
+Avg. %
+Grade
+85.2
+81.3
+80.4
+82.0
+74.5
+76.6
+74.9
+72.0
+73.4
+71.3
+75.0
+77.1
+75.2
+77.0
+81.2
+82.4
+86.3
+76.4
+83.5
+86.2
+89.2
+77.8
+71.4
+76.4
+74.2
+73.7
+77.1
+77.2
+71.8
+83.3
+73.4
+80.8
+90.0
+92.7
+86.9
+92.5
+87.9
+84.2
+90.3
+81.9
+90.9
+86.7
+
+Std. dev.
+of % Gr..
+5.6
+15.8
+7.3
+6.6
+15.2
+17.6
+17.4
+10.3
+6.4
+23.0
+9.7
+14.6
+13.2
+9.7
+10.2
+8.1
+6.9
+15.2
+6.2
+7.3
+2.9
+22.9
+8.8
+7.4
+8.0
+7.1
+5.2
+6.7
+17.8
+2.5
+9.7
+4.3
+3.5
+7.1
+5.6
+4.4
+1.6
+20.7
+2.8
+14.6
+3.7
+2.7
+
+Min. %
+Grade
+66.0
+14.0
+70.0
+73.0
+23.0
+0.0
+0.0
+55.0
+62.0
+0.0
+50.0
+43.0
+43.0
+56.0
+52.0
+68.0
+76.0
+9.0
+70.0
+72.0
+80.0
+10.0
+56.0
+66.0
+55.0
+60.0
+67.0
+60.0
+12.0
+79.0
+50.0
+69.0
+85.0
+80.0
+69.0
+83.0
+85.0
+0.0
+88.0
+10.0
+81.0
+83.0
+
+Max. %
+Grade
+91.0
+98.0
+86.0
+90.0
+97.0
+92.0
+93.0
+92.0
+85.0
+100.0
+85.0
+99.0
+94.0
+91.0
+99.0
+92.0
+97.0
+99.0
+92.0
+95.0
+91.0
+99.0
+87.0
+86.0
+85.0
+87.0
+83.0
+89.0
+87.0
+87.0
+90.0
+86.0
+95.0
+100.0
+97.0
+100.0
+90.0
+95.0
+95.0
+89.0
+96.0
+92.0
+
+Number
+of Reco..
+17
+33
+7
+7
+92
+30
+30
+12
+13
+17
+22
+35
+28
+15
+43
+7
+12
+49
+22
+12
+13
+26
+19
+5
+19
+36
+9
+41
+16
+18
+14
+26
+5
+9
+89
+28
+14
+19
+8
+27
+18
+22
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+Campus
+
+UBCV 2019S
+
+Avg. %
+Grade
+84.3
+88.8
+84.8
+70.5
+73.3
+70.0
+90.6
+85.1
+68.9
+89.9
+89.0
+92.0
+93.5
+89.4
+93.3
+89.7
+90.7
+83.2
+86.6
+96.9
+88.2
+88.1
+93.6
+88.7
+92.1
+93.2
+88.1
+89.4
+82.1
+72.4
+62.8
+63.1
+62.1
+67.9
+69.7
+60.7
+77.5
+71.0
+69.1
+76.8
+61.9
+62.5
+
+Std. dev.
+of % Gr..
+4.1
+4.8
+1.4
+17.2
+12.4
+18.9
+10.5
+6.2
+6.8
+5.1
+5.1
+2.4
+3.9
+5.8
+4.2
+4.6
+3.5
+3.6
+3.2
+1.4
+3.2
+5.2
+2.7
+1.0
+2.1
+1.9
+3.4
+3.7
+5.8
+17.9
+19.2
+15.1
+16.2
+16.6
+19.0
+20.6
+16.7
+14.7
+16.6
+18.6
+19.9
+20.7
+
+Min. %
+Grade
+77.0
+73.0
+83.0
+0.0
+7.0
+9.0
+67.0
+69.0
+58.0
+78.0
+70.0
+89.0
+83.0
+78.0
+84.0
+78.0
+86.0
+77.0
+81.0
+94.0
+82.0
+77.0
+90.0
+88.0
+90.0
+90.0
+80.0
+81.0
+70.0
+0.0
+3.0
+0.0
+0.0
+3.0
+12.0
+17.0
+0.0
+0.0
+26.0
+0.0
+0.0
+0.0
+
+Max. %
+Grade
+91.0
+98.0
+87.0
+95.0
+95.0
+93.0
+100.0
+95.0
+79.0
+96.0
+98.0
+96.0
+98.0
+99.0
+100.0
+98.0
+96.0
+88.0
+90.0
+99.0
+92.0
+95.0
+98.0
+91.0
+96.0
+95.0
+92.0
+94.0
+90.0
+99.0
+100.0
+89.0
+93.0
+99.0
+98.0
+96.0
+99.0
+97.0
+96.0
+100.0
+98.0
+100.0
+
+Number
+of Reco..
+18
+22
+16
+68
+131
+34
+26
+37
+14
+20
+56
+8
+32
+59
+27
+31
+15
+12
+8
+34
+14
+17
+11
+11
+7
+5
+16
+17
+16
+82
+121
+125
+126
+139
+61
+34
+121
+149
+47
+73
+58
+80
+
+Course Title
+Academic Libraries
+
+Digital Libraries
+Preservation
+
+Year &
+Session Course
+LIBR 575
+LIBR 579 G Topics in the Mana..
+LIBR 581
+LIBR 587
+LING 100 Introduction to La..
+LING 101 Languages of the ..
+LING 200 Linguistic Theory a..
+LING 201 Linguistic Theory a..
+LING 222 Language Acquisiti..
+LLED 200 Introduction to Wr..
+LLED 421 Gramligne: Learnin..
+LLED 441 Introduction to Te..
+LLED 442 Trends and Issues i..
+LLED 449 Teaching Adolesce..
+LLED 459 Trends and Issues i..
+LLED 462 School Library Res..
+LLED 478 C Introduction to Te..
+LLED 481 Digital Media in En..
+LLED 489 A Applied Linguistics..
+LLED 489 B Applied Linguistics..
+LLED 489 C Applied Linguistics..
+LLED 525 Bilingual Educatio..
+LLED 565 F Special Course in S..
+LLED 565 H Special Course in S..
+LLED 565 J Special Course in S..
+LLED 565 K Special Course in S..
+LLED 565 M Special Course in S..
+LLED 565 N Special Course in S..
+LLED 573 A Theories of Second..
+LWS 548
+MATH 100 Diﬀerential Calcul..
+MATH 101 Integral Calculus ..
+MATH 104 Diﬀerential Calcul..
+MATH 105 Integral Calculus ..
+MATH 200 Calculus III
+MATH 215 Elementary Diﬀer..
+MATH 220 Mathematical Proof
+MATH 221 Matrix Algebra
+MATH 253 Multivariable Calc..
+MATH 255 Ordinary Diﬀerent..
+MATH 257 Partial Diﬀerential..
+MATH 300 Introduction to Co..
+MATH 302 Introduction to Pr..
+MATH 307 Applied Linear Alg..
+
+Major Project
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+Campus
+
+Year &
+Session Course
+
+UBCV 2019S
+
+Course Title
+
+MATH 302 Introduction to Pr..
+MATH 307 Applied Linear Alg..
+MATH 312 Introduction to Nu..
+MATH 316 Elementary Diﬀer..
+MATH 317 Calculus IV
+MATH 589 M.Sc. Major Essay
+MECH 227 Approaches to Tec..
+MECH 410 T Special Topics in M..
+MECH 431 Engineering Econo..
+MECH 552 Electro-Mechanica..
+MECH 599 B Thesis
+MEDG 570 Introductory Clinic..
+MEDI 549 M.Sc. Thesis
+MGMT 100 Introduction to Bu..
+MGMT 110 Introduction to Ma..
+MINE 597 Engineering Project
+MRNE 402 G Special Topics in M..
+MRNE 410 Marine Invertebra..
+MTRL 512 Material Optimiza..
+NAME 592 Shipbuilding Inter..
+NURS 290 Health Impacts of ..
+NURS 331 Theoretical Perspe..
+NURS 351 Leadership, Policy,..
+NURS 354 Theoretical Perspe..
+NURS 504 Research and Evid..
+NURS 520 Administrative Lea..
+NURS 540 Educational Proce..
+NURS 552 Methods in Nursin..
+NURS 570 Primary Care I
+NURS 586 E Specialized Domai..
+NURS 586 H Specialized Domai..
+NURS 595 Scholarly Practice ..
+OBST 549 M.Sc. Thesis
+OSOT 519 Professional Practi..
+OSOT 545 Theory, Practice S..
+OSOT 547 Evidence for Practi..
+OSOT 549 Professional Practi..
+OSOT 551 Societal and Envir..
+OSOT 553 Developing Eﬀecti..
+PHAR 518 Diagnostic Imagin..
+Introduction to Phi..
+PHIL 101
+Introduction to Phi..
+PHIL 102
+Introduction to Cri..
+PHIL 120
+PHIL 220
+Symbolic Logic
+
+Avg. %
+Grade
+69.5
+67.4
+63.2
+67.6
+83.5
+90.0
+84.9
+80.8
+90.0
+84.8
+87.3
+89.1
+78.6
+75.7
+84.4
+85.6
+86.3
+85.8
+89.1
+87.7
+77.5
+84.6
+84.5
+86.5
+96.5
+88.5
+85.9
+85.8
+84.1
+91.3
+78.4
+91.2
+85.6
+86.3
+87.9
+80.7
+88.7
+88.2
+92.0
+79.0
+78.1
+76.5
+
+Std. dev.
+of % Gr..
+14.9
+19.3
+18.9
+17.1
+7.7
+2.4
+10.2
+11.2
+4.5
+2.9
+6.2
+3.3
+5.5
+6.3
+4.8
+6.5
+2.9
+3.8
+6.0
+4.8
+5.5
+4.5
+3.5
+6.5
+3.1
+2.4
+4.9
+3.2
+2.7
+4.2
+9.9
+2.7
+6.3
+3.0
+4.6
+4.4
+4.0
+5.1
+5.3
+17.7
+9.6
+16.0
+
+Min. %
+Grade
+7.0
+5.0
+7.0
+27.0
+72.0
+86.0
+60.0
+0.0
+80.0
+80.0
+73.0
+85.0
+64.0
+60.0
+75.0
+75.0
+82.0
+80.0
+80.0
+76.0
+60.0
+72.0
+72.0
+73.0
+90.0
+85.0
+77.0
+80.0
+81.0
+83.0
+60.0
+87.0
+64.0
+81.0
+75.0
+69.0
+72.0
+70.0
+80.0
+0.0
+41.0
+9.0
+
+Max. %
+Grade
+98.0
+98.0
+100.0
+97.0
+95.0
+93.0
+100.0
+94.0
+92.0
+87.0
+92.0
+96.0
+85.0
+85.0
+90.0
+93.0
+90.0
+91.0
+98.0
+95.0
+88.0
+98.0
+92.0
+97.0
+100.0
+93.0
+95.0
+93.0
+88.0
+96.0
+90.0
+95.0
+92.0
+92.0
+95.0
+89.0
+95.0
+95.0
+97.0
+95.0
+86.0
+95.0
+
+Number
+of Reco..
+107
+58
+53
+81
+6
+7
+39
+127
+7
+5
+8
+10
+21
+21
+7
+8
+7
+13
+9
+46
+112
+112
+112
+24
+15
+20
+33
+30
+8
+13
+7
+6
+55
+52
+52
+52
+52
+52
+8
+27
+21
+147
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+Campus
+
+UBCV 2019S
+
+Course Title
+Introduction to Cri..
+Symbolic Logic
+Introduction to Et..
+Introduction to Epi..
+Minds and Machin..
+Business and Profe..
+Bio-Medical Ethics
+Philosophy of Reli..
+Philosophy and Lit..
+Existentialism
+
+Year &
+Session Course
+PHIL 120
+PHIL 220
+PHIL 230
+PHIL 240
+PHIL 250
+PHIL 331
+PHIL 333
+PHIL 347
+PHIL 375
+PHIL 385
+PHTH 301 Physical Therapy F..
+PHTH 538 Case-based Integr..
+PHTH 546 Clinical Decision-M..
+PHTH 548 Case-based Integr..
+PHTH 558 Case-Based Integr..
+PHTH 564 Clinical Practice VIa
+PHTH 566 Clinical Decision-M..
+PHYS 100 Introductory Physi..
+PHYS 101 Energy and Waves
+PHYS 118 Electricity, Light a..
+PHYS 250 Introduction to Mo..
+PLAN 528 A Capstone Professi..
+PLAN 545 C Planning Studies A..
+PLAN 548 E Current Issues in P..
+PLAN 548 H Current Issues in P..
+PLAN 548 S Current Issues in P..
+PLAN 583 Housing and Com..
+PLAN 587 B Urban Design
+Introduction to Pol..
+POLI 100
+The Government o..
+POLI 101
+Investigating Polit..
+POLI 110
+POLI 260
+Introduction to Glo..
+POLI 320 A Government and P..
+POLI 326
+European Politics: ..
+POLI 328 C Topics in Compara..
+POLI 332
+Politics and Gover..
+POLI 341 B Contemporary Poli..
+POLI 380
+Quantitative Meth..
+POLI 449 D Topics in Political ..
+POLI 464 C Problems in Intern..
+POLI 549 B Master's Thesis
+PORT 101 First-Year Portugu..
+PORT 102 First-Year Portugu..
+PSYC 101 Introduction to Bio..
+
+Avg. %
+Grade
+84.1
+69.3
+71.3
+80.4
+67.5
+68.7
+74.7
+73.2
+70.6
+75.2
+85.5
+90.3
+90.4
+88.4
+88.2
+93.2
+65.8
+78.2
+74.7
+83.2
+88.3
+88.3
+88.0
+86.5
+86.4
+89.8
+89.4
+75.8
+76.1
+82.3
+75.6
+74.1
+90.7
+75.8
+75.5
+80.6
+69.7
+82.2
+79.9
+86.3
+89.1
+88.9
+
+Std. dev.
+of % Gr..
+13.8
+14.8
+17.9
+7.2
+15.2
+14.8
+13.6
+10.9
+15.3
+11.5
+3.5
+1.9
+4.1
+4.8
+3.8
+1.8
+20.1
+12.2
+17.0
+7.2
+5.6
+2.1
+0.0
+3.1
+1.3
+1.6
+0.5
+9.3
+15.1
+9.8
+11.0
+9.4
+0.8
+15.8
+8.8
+7.0
+13.7
+4.5
+5.9
+2.3
+9.8
+6.8
+
+Min. %
+Grade
+0.0
+0.0
+0.0
+63.0
+5.0
+0.0
+0.0
+34.0
+8.0
+51.0
+73.0
+85.0
+80.0
+79.0
+75.0
+90.0
+0.0
+0.0
+9.0
+68.0
+68.0
+85.0
+88.0
+82.0
+85.0
+87.0
+89.0
+50.0
+17.0
+50.0
+16.0
+48.0
+90.0
+0.0
+39.0
+64.0
+18.0
+73.0
+65.0
+82.0
+64.0
+78.0
+
+Max. %
+Grade
+100.0
+88.0
+99.0
+96.0
+88.0
+87.0
+90.0
+90.0
+90.0
+94.0
+92.0
+93.0
+97.0
+100.0
+94.0
+97.0
+97.0
+100.0
+100.0
+96.0
+95.0
+91.0
+88.0
+90.0
+88.0
+91.0
+90.0
+90.0
+90.0
+96.0
+89.0
+92.0
+92.0
+92.0
+88.0
+93.0
+88.0
+90.0
+87.0
+89.0
+98.0
+96.0
+
+Number
+of Reco..
+264
+35
+36
+24
+58
+171
+81
+67
+81
+29
+78
+78
+79
+79
+79
+79
+83
+178
+210
+58
+27
+13
+14
+6
+5
+8
+11
+45
+57
+63
+52
+59
+10
+61
+57
+48
+43
+18
+16
+10
+14
+7
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+Campus
+
+Year &
+Session Course
+
+UBCV 2019S
+
+Course Title
+
+PORT 102 First-Year Portugu..
+PSYC 101 Introduction to Bio..
+PSYC 102 Introduction to De..
+PSYC 217 Research Methods
+PSYC 218 Analysis of Behavi..
+PSYC 300 A Abnormal Psychol..
+PSYC 301 Brain Dysfunction ..
+PSYC 304 Brain and Behaviour
+PSYC 305 A Personality Psycho..
+PSYC 307 Cultural Psychology
+PSYC 308 A Social Psychology
+PSYC 311 Psychology of Sport
+PSYC 314 Health Psychology
+PSYC 315 Childhood and Ado..
+PSYC 319 Applied Developm..
+PSYC 340 F Directed Studies in..
+PSYC 350 A Psychological Aspe..
+PSYC 413 Social and Persona..
+PSYC 417 A Special Topics in P..
+PSYC 529 A Special Topics in S..
+PSYC 549 Master's Thesis
+PUNJ 102 Introductory Punja..
+RELG 201 Near Eastern and ..
+RELG 307 Sex, Lies, and Viole..
+RHSC 420 Elements of Neuro..
+RHSC 583 B Applying Research ..
+RHSC 589 A Major Project, Part..
+RUSS 101 Basic Russian I
+SCAN 332 B Topics in Scandina..
+SOCI 101
+Social Interaction ..
+Inequality and Soci..
+SOCI 102
+Sociology of Family
+SOCI 200
+Ethnic Relations
+SOCI 201
+SOCI 217
+Research Methods
+Introduction to So..
+SOCI 240
+Crime and Society
+SOCI 250
+SOCI 301
+Sociology of Devel..
+Sociology of Migra..
+SOCI 303
+Canadian Society
+SOCI 310
+SOCI 312
+Gender Relations
+Diversity in Family ..
+SOCI 320
+Social Statistics I
+SOCI 328
+Social Inequality
+SOCI 361
+SOCI 371
+Classical Tradition..
+
+Avg. %
+Grade
+70.4
+71.8
+71.2
+70.0
+72.1
+72.3
+66.8
+71.7
+70.6
+73.9
+67.2
+71.5
+69.0
+72.4
+90.6
+71.6
+74.4
+75.7
+89.8
+91.8
+82.7
+76.1
+73.3
+89.9
+89.2
+87.0
+81.7
+76.9
+69.3
+69.7
+75.3
+78.2
+73.4
+77.2
+72.3
+76.2
+82.1
+74.2
+72.8
+72.7
+70.7
+74.7
+
+Std. dev.
+of % Gr..
+17.2
+16.2
+10.8
+17.0
+13.5
+15.5
+18.5
+14.5
+13.5
+12.4
+13.3
+15.2
+11.1
+13.3
+4.1
+12.8
+11.4
+9.6
+2.5
+4.1
+22.1
+11.5
+14.0
+8.4
+5.7
+11.3
+21.3
+11.0
+8.1
+10.9
+9.0
+5.6
+11.0
+5.6
+7.2
+11.5
+10.6
+16.0
+12.6
+11.3
+8.8
+9.7
+
+Min. %
+Grade
+0.0
+0.0
+35.0
+22.0
+26.0
+16.0
+4.0
+22.0
+22.0
+50.0
+0.0
+0.0
+38.0
+0.0
+82.0
+0.0
+0.0
+59.0
+85.0
+81.0
+7.0
+40.0
+31.0
+60.0
+85.0
+65.0
+4.0
+25.0
+50.0
+9.0
+53.0
+66.0
+23.0
+63.0
+60.0
+0.0
+46.0
+0.0
+34.0
+18.0
+44.0
+34.0
+
+Max. %
+Grade
+95.0
+97.0
+96.0
+99.0
+93.0
+97.0
+98.0
+100.0
+96.0
+93.0
+90.0
+100.0
+92.0
+98.0
+95.0
+100.0
+88.0
+91.0
+93.0
+95.0
+99.0
+92.0
+90.0
+99.0
+98.0
+98.0
+97.0
+90.0
+85.0
+85.0
+96.0
+91.0
+88.0
+91.0
+90.0
+90.0
+95.0
+97.0
+91.0
+89.0
+90.0
+89.0
+
+Number
+of Reco..
+379
+339
+108
+75
+96
+112
+101
+217
+145
+94
+138
+301
+80
+129
+9
+133
+77
+10
+9
+15
+16
+32
+47
+55
+5
+7
+18
+32
+67
+60
+78
+40
+46
+85
+47
+80
+49
+70
+27
+57
+43
+68
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+Course/Section Grades
+
+Campus
+
+Year &
+Session Course
+
+UBCV 2019S
+
+Course Title
+SOCI 361
+Social Inequality
+SOCI 371
+Classical Tradition..
+SOCI 382
+Sociological Metho..
+SOCI 415
+Theories of Family ..
+SOCI 480 B Urban Ethnographi..
+SOWK 430 A Special Studies in ..
+SOWK 440 H Integrative Semin..
+SOWK 521 Social Work Practi..
+SOWK 526 A Social Work Practi..
+SPAN 101 Beginners' Spanish I
+SPAN 102 Beginners' Spanis..
+SPAN 201 Intermediate Span..
+SPAN 202 Intermediate Span..
+SPAN 301 Advanced Spanish I
+SPAN 302 Advanced Spanish II
+SPHA 532 Health Economics
+SPHA 544 Health Informatio..
+SPHA 561 Strategic Manage..
+SPHA 564 Leadership and Ma..
+SPPH 503 Epidemiological M..
+SPPH 538 Application of Ethi..
+SPPH 581 K Selected Topics
+STAT 200 Elementary Statist..
+STAT 251 Elementary Statist..
+STAT 302 Introduction to Pr..
+STAT 589 M.Sc. Project
+THTR 399 A Production II
+UDES 503  Urban Design Stu..
+UDES 506 Real Estate Econo..
+UDES 509 A Topics in Urban De..
+URSY 530 Urban Systems En..
+VANT 140 A Content and Langu..
+VANT 149 Multi-disciplinary ..
+VANT 151 Multi-disciplinary ..
+WOOD 353 Mill Site Visits
+WOOD 461 Globalization and ..
+WOOD 465 Wood Industry Bus..
+WRDS 150 Writing and Resea..
+
+Avg. %
+Grade
+78.0
+75.1
+78.8
+81.6
+89.7
+85.9
+85.1
+90.5
+77.8
+70.3
+77.7
+73.5
+76.3
+82.5
+82.2
+81.6
+85.9
+92.8
+92.2
+87.8
+90.7
+74.3
+71.1
+61.2
+87.3
+89.8
+82.1
+88.1
+81.6
+83.7
+74.7
+77.8
+70.1
+79.8
+77.8
+87.7
+73.4
+
+Std. dev.
+of % Gr..
+7.5
+10.4
+13.2
+2.5
+6.9
+5.1
+2.2
+1.1
+15.3
+20.5
+13.3
+21.4
+21.3
+7.9
+4.9
+4.0
+1.3
+3.1
+3.7
+5.2
+2.7
+15.4
+13.5
+18.1
+7.3
+3.9
+4.2
+5.4
+5.0
+3.6
+14.5
+12.0
+11.2
+5.6
+4.3
+6.2
+11.7
+
+Min. %
+Grade
+51.0
+39.0
+44.0
+78.0
+84.0
+71.0
+83.0
+88.0
+0.0
+0.0
+37.0
+0.0
+0.0
+65.0
+73.0
+72.0
+83.0
+81.0
+85.0
+74.0
+87.0
+8.0
+24.0
+11.0
+74.0
+83.0
+73.0
+79.0
+70.0
+79.0
+39.0
+0.0
+0.0
+63.0
+69.0
+75.0
+0.0
+
+Max. %
+Grade
+90.0
+91.0
+86.0
+86.0
+100.0
+94.0
+89.0
+92.0
+98.0
+95.0
+95.0
+98.0
+94.0
+93.0
+91.0
+90.0
+88.0
+96.0
+96.0
+96.0
+95.0
+97.0
+96.0
+100.0
+94.0
+92.0
+91.0
+96.0
+89.0
+89.0
+99.0
+95.0
+90.0
+90.0
+89.0
+94.0
+100.0
+
+Number
+of Reco..
+65
+39
+9
+9
+9
+36
+7
+11
+71
+36
+56
+49
+19
+14
+28
+29
+29
+29
+12
+22
+25
+130
+237
+102
+6
+5
+17
+21
+15
+9
+67
+384
+68
+41
+37
+17
+401
+
+Data is displayed for primary ac(cid:415)vi(cid:415)es only. Class/sec(cid:415)ons with less than 6 graded students are masked.
+Grades data is not published un(cid:415)l May 15 (winter sessions) and September 15 (summer sessions).
+
+
