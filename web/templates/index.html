@@ -1,50 +1,47 @@
 {% extends "layout.html" %}
 {% block body %}
-<h1>What course are you looking for today?</h1>
+<section><center><h1>Describe what you would like to learn</h1>
+  <p> example: I want to learn more about Asian Culture.</p>
 <!-- need to work on css/stylesheets -->
  
-<!-- the list overflows, into the next field need to look into that problem. -->
+<!-- add UBC image. -->
+
+<!-- <div> -->
+  <!-- <img src="/Users/sumitmeghlani/Documents/hackathons/web_app/LearningAnalyticsHackathon/web/templates/images/UBC-logo-full.png"> -->
+<!-- </div> -->
+
 <div class="ui-widget">
     <!-- <label for="tags">Faculty: </label> -->
-    <input id="tags" placeholder="Faculty:">
-    <input autocomplete="off" autofocus name="details" placeholder="Analysing Sports?" type="text">
+    <input id="Faculty" name="Faculty" placeholder="Faculty:">
+    <input autocomplete="off" autofocus id= "Sentence" name="Sentence" placeholder="Description" type="text">
 </div>
+</center>
+</section>
  
 <script>
     $( function() {
         var availableTags = [
-        "LAND AND FOOD SYSTEMS",
-        "EDUCATION",
-        "MEDICINE",
-        "ARTS AND SCIENCES",
-        "ARTS",
-        "APPLIED SCIENCE",
-        "SCHOOL OF ARCHITECTURE & LANDSCAPE ARCHITECTURE",
-        "SCHOOL OF LIBRARY, ARCHIVAL & INFORMATION STUDIES",
-        "SCIENCE",
-        "SCHOOL OF AUDIOLOGY & SPEECH SCIENCES",
-        "COMMERCE & BUSINESS ADMINISTRATION",
-        "SCHOOL OF BIOMEDICAL ENGINEERING",
-        "FORESTRY",
-        "CREATIVE AND CRITICAL STUDIES",
-        "DENTISTRY",
-        "VANCOUVER SCHOOL OF ECONOMICS",
-        "COLLEGE OF GRADUATE STUDIES",
-        "REGI",
-        "HEALTH AND SOCIAL DEVELOPMENT",
-        "COLLEGE OF HEALTH DISCIPLINES",
-        "GRADUATE AND POSTDOCTORAL STUDIES",
-        "SCHOOL OF JOURNALISM",
-        "MANAGEMENT",
-        "SCHOOL OF MUSIC",
-        "SCHOOL OF NURSING",
-        "PHARMACEUTICAL SCIENCES",
-        "SCHOOL OF COMMUNITY & REGIONAL PLANNING",
-        "SCHOOL OF SOCIAL WORK",
-        "CENTRE FOR CONTINUING EDUCATION",
-        "VANTAGE COLLEGE"
+        'LAND AND FOOD SYSTEMS',
+        'ARTS',
+        'EDUCATION',
+        'MEDICINE',
+        'SCIENCE',
+        'FORESTRY',
+        'APPLIED SCIENCE',
+        'PHARMACEUTICAL SCIENCES',
+        'SCHOOL OF ARCHITECTURE & LANDSCAPE ARCHITECTURE',
+        'SCHOOL OF AUDIOLOGY & SPEECH SCIENCES',
+        'SCHOOL OF BIOMEDICAL ENGINEERING',
+        'COMMERCE & BUSINESS ADMINISTRATION',
+        'DENTISTRY',
+        'VANCOUVER SCHOOL OF ECONOMICS',
+        'SCHOOL OF JOURNALISM',
+        'SCHOOL OF MUSIC',
+        'SCHOOL OF NURSING',
+        'SCHOOL OF COMMUNITY & REGIONAL PLANNING',
+        'VANTAGE COLLEGE'
         ];
-        $( "#tags" ).autocomplete({
+        $( "#Faculty" ).autocomplete({
           source: availableTags
         });
       } );
