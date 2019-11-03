@@ -8,11 +8,6 @@ import pickle
 import json
 
 app = Flask(__name__)
-initial_df = pd.read_csv('/home/karlos/Documents/workspace/LearningAnalyticsHackathon/ubc_course_calendar_data.csv')
-df = initial_df[initial_df.COURSE_DESCRIPTION.notnull()]
-
-df = df[df['COURSE_DESCRIPTION'] != ' ']
-unique_course_descriptions = df['COURSE_DESCRIPTION'].unique()
 
 with open('../src/big_dict.pkl', 'rb') as handle:
     description_to_courses = pickle.load(handle)
