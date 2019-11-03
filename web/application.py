@@ -28,49 +28,25 @@ def index():
 def predict():
     faculty_of_interest = request.form.get('Faculty').upper()
     if faculty_of_interest:
-        list_of_descriptions = np.array(faculty_to_description.get(faculty_of_interest, [-1]))
-    else:
+        list_of_descriptions = np.array(faculty_to_description.get(faculty_of_interest, -1))
+
+    if not faculty_of_interest or list_of_descriptions == -1:
         list_of_descriptions = [] 
         for val in faculty_to_description.values(): 
             list_of_descriptions.extend(val)
         list_of_descriptions = np.array(list_of_descriptions)
-    # print('list of descriptions::: ')
-    # print(len(list_of_descriptions))
-    # print(list_of_descriptions[:5])
 
-    if list_of_descriptions.__len__() == 1 and list_of_descriptions[0] == -1:
-        return jsonify({"matching_courses": [-1]})
 
     list_of_vectors = np.array([description_to_courses[description]['vector'] for description in list_of_descriptions])
 
     with app.graph.as_default():
-        # sess = tf.Session(graph = app.graph)
-        # sess.run(tf.global_variables_initializer())
-        # sess.run(tf.tables_initializer())
         input_sentence = request.form.get('Sentence')
         top = int(request.form.get('Top', 10))
 
         my_vector = app.sess.run(app.embed_model([input_sentence]))
-    # sess.close()
-    # sess.close()
-    # print('Calculating the distances: ')
     all_distances = np.array([dist.cityblock(my_vector[0], vector) for vector in list_of_vectors])
-    # print(all_distances[:5])
 
-    # print('Sorting and giving results: ')
     indices = all_distances.argsort()[:top]
-    # print(indices)
-    # print('First 5 descriptions from the list ')
-    # print(list_of_descriptions[:5])
-
-    # print('The size of the list of descriptions ')
-    # print(len(list_of_descriptions))
-
-    # print('Type of list of descriptions')
-    # print(type(list_of_descriptions))
-
-    # print('Get shape of the list of desc')
-    # print(list_of_descriptions.shape)
     best_matching_descriptions = list_of_descriptions[indices]
 
     # print(f'The input is: {input_sentence}')
@@ -84,7 +60,7 @@ def predict():
 
         for i in range(len(description_to_courses[matching_desc]['courses'])):
             description_to_courses[matching_desc]['courses'][i]['description'] = matching_desc
-        courses_matching.extend(description_to_courses[matching_desc]['courses'])
+        courses_matching.append(description_to_courses[matching_desc]['courses'][0])
 
     # print(courses_matching)
     result = {'matching_courses' : courses_matching}
