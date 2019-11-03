@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+
+{% block title %}
+<h1> The recommended courses </h1>
+{% endblock %}
+
+<!-- taking in the dictionary as an input from applcation.py-->
+
+{% block body %}
+{# note: update code structure, if the input is a JSON object, and if this dosent work #}
+    <ol>
+        {% for content in dictionary %}
+        <li>
+            <!-- Course Code -->
+            <h2> {{content.coursecode}} </h2>
+            <!-- Course data -->
+            <p> {{content.stat}}</p>
+            <!-- Course distribution //note: look into chart.js//-->
+            <img> {{content.png}} </img>
+        </li>
+        {% endfor %}
+    </ol>
+{% endblock %}
