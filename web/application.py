@@ -8,11 +8,6 @@ import pickle
 import json
 
 app = Flask(__name__)
-initial_df = pd.read_csv('/home/karlos/Documents/workspace/LearningAnalyticsHackathon/ubc_course_calendar_data.csv')
-df = initial_df[initial_df.COURSE_DESCRIPTION.notnull()]
-
-df = df[df['COURSE_DESCRIPTION'] != ' ']
-unique_course_descriptions = df['COURSE_DESCRIPTION'].unique()
 
 with open('../src/big_dict.pkl', 'rb') as handle:
     description_to_courses = pickle.load(handle)
@@ -44,7 +39,7 @@ def predict():
     # print(list_of_descriptions[:5])
 
     if list_of_descriptions.__len__() == 1 and list_of_descriptions[0] == -1:
-        return jsonify({"results": [-1]})
+        return jsonify({"matching_courses": [-1]})
 
     list_of_vectors = np.array([description_to_courses[description]['vector'] for description in list_of_descriptions])
 
@@ -53,7 +48,7 @@ def predict():
         # sess.run(tf.global_variables_initializer())
         # sess.run(tf.tables_initializer())
         input_sentence = request.form.get('Sentence')
-        top = int(request.form.get('Top'))
+        top = int(request.form.get('Top', 10))
 
         my_vector = app.sess.run(app.embed_model([input_sentence]))
     # sess.close()
@@ -93,8 +88,9 @@ def predict():
 
     # print(courses_matching)
     result = {'matching_courses' : courses_matching}
+    
 
-    return jsonify(result)
+    return render_template("success.html", matching_courses = courses_matching)
 
 
 
