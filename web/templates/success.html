@@ -8,9 +8,9 @@
 
 {% block body %}
 {# note: update code structure, if the input is a JSON object, and if this dosent work #}
-    <ol>
+    
         {% for content in matching_courses %}
-        <li>
+        
             <table style="width: 100%" class="table">
                 <!-- Course Title -->
             <h1>{{content.course_title}}</h1>
@@ -48,7 +48,7 @@
             <!-- Course distribution //note: look into chart.js//-->
             <!-- Implement the figures created by Jarvis -->
             <!-- <img> {{content.png}} </img> -->
-        </li>
+        
         {% endfor %}
-    </ol>
+    
 {% endblock %}
