@@ -8,24 +8,29 @@
 
 {% block body %}
 {# note: update code structure, if the input is a JSON object, and if this dosent work #}
-    <ol>
+    
         {% for content in matching_courses %}
-        <li>
-            <!-- Course Title -->
+        
+            <table style="width: 100%" class="table">
+                <!-- Course Title -->
             <h1>{{content.course_title}}</h1>
-            <!-- Course Code -->
-            <h2> {{content.course_code}} </h2>
-            <!-- Course faculty -->
-            <h4> {{content.faculty}}</h4>
-            <!-- Course Prerequisites -->
-            <h5>{{content.pre_requisites}}</h5>
             <!-- Course data -->
             <h3> {{content.description}}</h3>
-            <!-- Course Credits-->
-            <h5>{{content.credits}}</h5>
+            <thead class="thead-dark">
+                <!-- Course Code -->
+                <th scope="col"> {{content.course_code}} </th>
+                <!-- Course faculty -->
+                <th scope="col"> Faculty: {{content.faculty}}</th>
+                <!-- Course Prerequisites -->
+                <th scope="col">Prerequisites: {{content.pre_requisites}}</th>
+                <!-- Course Credits-->
+                <th scope="col">{{content.credits}}</th>
+            </thead>
+        </table>
+        <table style="width: 100%" class="table">
             <!-- table -->
             <h2>Statistics</h2>
-                <table style="width: 100%">
+               
                     <tr>
                         <th>Max</th>
                         <th>Average</th>
@@ -43,7 +48,7 @@
             <!-- Course distribution //note: look into chart.js//-->
             <!-- Implement the figures created by Jarvis -->
             <!-- <img> {{content.png}} </img> -->
-        </li>
+        
         {% endfor %}
-    </ol>
+    
 {% endblock %}
