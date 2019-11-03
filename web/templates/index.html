@@ -1,51 +1,52 @@
 {% extends "layout.html" %}
 {% block body %}
-<h1>Faculty</h1>
-<!-- drop down, with multiple faculties, refer bootstrap -->
-<!-- need to use regex -->
+<h1>What course are you looking for today?</h1>
+<!-- need to work on css/stylesheets -->
+ 
+<!-- the list overflows, into the next field need to look into that problem. -->
 <div class="ui-widget">
-    <label for="tags">Faculty: </label>
-    <input id="tags">
+    <!-- <label for="tags">Faculty: </label> -->
+    <input id="tags" placeholder="Faculty:">
+    <input autocomplete="off" autofocus name="details" placeholder="Analysing Sports?" type="text">
 </div>
-<input autocomplete="off" autofocus name="details" placeholder="What are you looking for?" type="text">
-
+ 
 <script>
-$( function() {
-    var availableTags = [
-    "LAND AND FOOD SYSTEMS",
-    "EDUCATION",
-    "MEDICINE",
-    "ARTS AND SCIENCES",
-    "ARTS",
-    "APPLIED SCIENCE",
-    "SCHOOL OF ARCHITECTURE & LANDSCAPE ARCHITECTURE",
-    "SCHOOL OF LIBRARY, ARCHIVAL & INFORMATION STUDIES",
-    "SCIENCE",
-    "SCHOOL OF AUDIOLOGY & SPEECH SCIENCES",
-    "COMMERCE & BUSINESS ADMINISTRATION",
-    "SCHOOL OF BIOMEDICAL ENGINEERING",
-    "FORESTRY",
-    "CREATIVE AND CRITICAL STUDIES",
-    "DENTISTRY",
-    "VANCOUVER SCHOOL OF ECONOMICS",
-    "COLLEGE OF GRADUATE STUDIES",
-    "REGI",
-    "HEALTH AND SOCIAL DEVELOPMENT",
-    "COLLEGE OF HEALTH DISCIPLINES",
-    "GRADUATE AND POSTDOCTORAL STUDIES",
-    "SCHOOL OF JOURNALISM",
-    "MANAGEMENT",
-    "SCHOOL OF MUSIC",
-    "SCHOOL OF NURSING",
-    "PHARMACEUTICAL SCIENCES",
-    "SCHOOL OF COMMUNITY & REGIONAL PLANNING",
-    "SCHOOL OF SOCIAL WORK",
-    "CENTRE FOR CONTINUING EDUCATION",
-    "VANTAGE COLLEGE"
-    ];
-    $( "#tags" ).autocomplete({
-      source: availableTags
-    });
-  } );
-</script>
+    $( function() {
+        var availableTags = [
+        "LAND AND FOOD SYSTEMS",
+        "EDUCATION",
+        "MEDICINE",
+        "ARTS AND SCIENCES",
+        "ARTS",
+        "APPLIED SCIENCE",
+        "SCHOOL OF ARCHITECTURE & LANDSCAPE ARCHITECTURE",
+        "SCHOOL OF LIBRARY, ARCHIVAL & INFORMATION STUDIES",
+        "SCIENCE",
+        "SCHOOL OF AUDIOLOGY & SPEECH SCIENCES",
+        "COMMERCE & BUSINESS ADMINISTRATION",
+        "SCHOOL OF BIOMEDICAL ENGINEERING",
+        "FORESTRY",
+        "CREATIVE AND CRITICAL STUDIES",
+        "DENTISTRY",
+        "VANCOUVER SCHOOL OF ECONOMICS",
+        "COLLEGE OF GRADUATE STUDIES",
+        "REGI",
+        "HEALTH AND SOCIAL DEVELOPMENT",
+        "COLLEGE OF HEALTH DISCIPLINES",
+        "GRADUATE AND POSTDOCTORAL STUDIES",
+        "SCHOOL OF JOURNALISM",
+        "MANAGEMENT",
+        "SCHOOL OF MUSIC",
+        "SCHOOL OF NURSING",
+        "PHARMACEUTICAL SCIENCES",
+        "SCHOOL OF COMMUNITY & REGIONAL PLANNING",
+        "SCHOOL OF SOCIAL WORK",
+        "CENTRE FOR CONTINUING EDUCATION",
+        "VANTAGE COLLEGE"
+        ];
+        $( "#tags" ).autocomplete({
+          source: availableTags
+        });
+      } );
+    </script>
 {% endblock %}
