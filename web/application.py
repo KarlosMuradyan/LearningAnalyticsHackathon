@@ -39,12 +39,12 @@ def predict():
         for val in faculty_to_description.values(): 
             list_of_descriptions.extend(val)
         list_of_descriptions = np.array(list_of_descriptions)
-    print('list of descriptions::: ')
-    print(len(list_of_descriptions))
-    print(list_of_descriptions[:5])
+    # print('list of descriptions::: ')
+    # print(len(list_of_descriptions))
+    # print(list_of_descriptions[:5])
 
     if list_of_descriptions.__len__() == 1 and list_of_descriptions[0] == -1:
-        return [-1]
+        return jsonify({"results": [-1]})
 
     list_of_vectors = np.array([description_to_courses[description]['vector'] for description in list_of_descriptions])
 
@@ -58,40 +58,40 @@ def predict():
         my_vector = app.sess.run(app.embed_model([input_sentence]))
     # sess.close()
     # sess.close()
-    print('Calculating the distances: ')
+    # print('Calculating the distances: ')
     all_distances = np.array([dist.cityblock(my_vector[0], vector) for vector in list_of_vectors])
-    print(all_distances[:5])
+    # print(all_distances[:5])
 
-    print('Sorting and giving results: ')
+    # print('Sorting and giving results: ')
     indices = all_distances.argsort()[:top]
-    print(indices)
-    print('First 5 descriptions from the list ')
-    print(list_of_descriptions[:5])
+    # print(indices)
+    # print('First 5 descriptions from the list ')
+    # print(list_of_descriptions[:5])
 
-    print('The size of the list of descriptions ')
-    print(len(list_of_descriptions))
+    # print('The size of the list of descriptions ')
+    # print(len(list_of_descriptions))
 
-    print('Type of list of descriptions')
-    print(type(list_of_descriptions))
+    # print('Type of list of descriptions')
+    # print(type(list_of_descriptions))
 
-    print('Get shape of the list of desc')
-    print(list_of_descriptions.shape)
+    # print('Get shape of the list of desc')
+    # print(list_of_descriptions.shape)
     best_matching_descriptions = list_of_descriptions[indices]
 
-    print(f'The input is: {input_sentence}')
-    print(f'Top {top} matching sentences are: ')
-    print(best_matching_descriptions)
+    # print(f'The input is: {input_sentence}')
+    # print(f'Top {top} matching sentences are: ')
+    # print(best_matching_descriptions)
 
     courses_matching = []
 
-    print('Courses matching the descrition')
+    # print('Courses matching the descrition')
     for matching_desc in best_matching_descriptions:
 
         for i in range(len(description_to_courses[matching_desc]['courses'])):
             description_to_courses[matching_desc]['courses'][i]['description'] = matching_desc
         courses_matching.extend(description_to_courses[matching_desc]['courses'])
 
-    print(courses_matching)
+    # print(courses_matching)
     result = {'matching_courses' : courses_matching}
 
     return jsonify(result)
@@ -101,14 +101,14 @@ def predict():
 @app.before_first_request
 def load_model_to_app():
 
-    print('Shape of the unique course descriptions: ', len(unique_course_descriptions))
+    # print('Shape of the unique course descriptions: ', len(unique_course_descriptions))
 
     embed = hub.Module("https://tfhub.dev/google/universal-sentence-encoder-large/3")
     # embeddings = embed(unique_course_descriptions)
     # input_string = embed(['Organize seminars and workshops'])
 
 
-    print('Starting the tensorflow session')
+    # print('Starting the tensorflow session')
     app.graph = tf.get_default_graph()
     all_distances = []
     with app.graph.as_default():
