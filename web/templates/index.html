@@ -9,12 +9,14 @@
 <!-- <div> -->
   <!-- <img src="/Users/sumitmeghlani/Documents/hackathons/web_app/LearningAnalyticsHackathon/web/templates/images/UBC-logo-full.png"> -->
 <!-- </div> -->
-
-<div class="ui-widget">
-    <!-- <label for="tags">Faculty: </label> -->
-    <input id="Faculty" name="Faculty" placeholder="Faculty:">
-    <input autocomplete="off" autofocus id= "Sentence" name="Sentence" placeholder="Description" type="text">
-</div>
+<form action="/get_courses" method="POST">
+  <div class="ui-widget">
+      <!-- <label for="tags">Faculty: </label> -->
+      <input id="Faculty" name="Faculty" placeholder="Faculty:">
+      <input autocomplete="off" autofocus id= "Sentence" name="Sentence" placeholder="Description" type="text">
+      <input type="submit"></input>
+  </div>
+</form>
 </center>
 </section>
  
